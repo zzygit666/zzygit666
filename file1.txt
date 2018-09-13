@@ -11,3 +11,8 @@ chan3
 chan4
 
 add merge
+
+
+checkouut dev
+
+add comm

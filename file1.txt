@@ -9,3 +9,5 @@ chan 2
 chan3
 
 chan4
+
+add merge

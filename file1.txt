@@ -3,3 +3,5 @@ this is my first time use note
 change 9 13
 
 1
+
+chan 2
